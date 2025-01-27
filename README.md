@@ -48,3 +48,10 @@ export default tseslint.config({
   },
 })
 ```
+
+# Need configure .env with:
+- VITE_APPWRITE_PROJECT_ID = 
+- VITE_APPWRITE_DATABASE_ID = 
+- VITE_APPWRITE_COLLECTION_ID = 
+- VITE_TMDB_API_KEY = 
+
